@@ -1,4 +1,4 @@
-# [Posts, Pages, Taxonomies, and More: WordPress Content Architecture][published url]
+# [Custom Post Types and Taxonomies: WordPress Content Architecture][published url]
 ## Instructor: [Rachel McCollin][instructor url]
 
 
@@ -14,5 +14,5 @@ These are source files for the Envato Tuts+ course: [Posts, Pages, Taxonomies an
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/posts-pages-taxonomies-and-more-wordpress-content-architecture
+[published url]: https://code.tutsplus.com/courses/custom-post-types-and-taxonomies-wordpress-content-architecture
 [instructor url]: https://tutsplus.com/authors/rachel-mccollin

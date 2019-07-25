@@ -10,7 +10,7 @@ This repo contains source files relating to each part of the course where code i
 
 ------
 
-These are source files for the Envato Tuts+ course: [Posts, Pages, Taxonomies and More: WordPress Content Architecture][published url]
+These are source files for the Envato Tuts+ course: [Custom Post Types and Taxonomies: WordPress Content Architecture][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
